@@ -1,18 +1,2 @@
 # Esercizio 1C
-Lettura
-
-## Brief
-Leggere il testo di Kleist e scrivere un commento e publiccarlo nel file README.md.
-
-## Restrizioni
-- 500-1000 caratteri
-
-## Consegna
-Pubblicare il commento sulla piattaforma GitHub nel file README.md.
-
-## Struttura cartella
-```
-GIM/esercizio_1C
-	README.md
-``` 
-
+Il testo mette a confronto umanità e marionette, concentrandosi sui movimenti, le dinamiche, i comportamenti dei due; questo per riflettere sulla nostra vera libertà rispetto a qualcosa di artificiale. D'altronde qualcosa senza coscienza è privo d'incertezze e conflitti interiori, si lascia fare qualsiasi cosa. Per l'umano questa serenità totale non è possibile sempre, ma è anche la bellezza stessa della nostra specie, l'irriproducibilità esatta dei nostri movimenti e delle nostre azioni, per quanto precisi possiamo volerli riprodurre, saranno sempre unici e visibili in singoli attimi.
