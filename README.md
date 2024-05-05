@@ -17,3 +17,6 @@ Esempio B: https://zanettipiero.github.io/GIM/Esercizio_1B/indexB.html
   
 Esercizio 1C  
 https://zanettipiero.github.io/GIM/Esercizio_1C    
+  
+Esercizio 2  
+https://zanettipiero.github.io/GIM/Esercizio_2/Esercizio_2.html
