@@ -19,4 +19,10 @@ Esercizio 1C
 https://zanettipiero.github.io/GIM/Esercizio_1C    
   
 Esercizio 2  
-https://zanettipiero.github.io/GIM/Esercizio_2/Esercizio_2.html
+https://zanettipiero.github.io/GIM/Esercizio_2/Esercizio_2.html  
+  
+Esercizio 3B  
+https://zanettipiero.github.io/GIM/Esercizio_3B/neve/index.html 
+https://zanettipiero.github.io/GIM/Esercizio_3B/pioggia/index.html  
+https://zanettipiero.github.io/GIM/Esercizio_3B/pong/index.html 
+  
