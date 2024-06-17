@@ -21,6 +21,9 @@ https://zanettipiero.github.io/GIM/Esercizio_1C
 Esercizio 2  
 https://zanettipiero.github.io/GIM/Esercizio_2/Esercizio_2.html  
   
+Esercizio 3A  
+https://zanettipiero.github.io/GIM/Esercizio_3A/orologio/index.html 
+ 
 Esercizio 3B  
 https://zanettipiero.github.io/GIM/Esercizio_3B/neve/index.html 
 https://zanettipiero.github.io/GIM/Esercizio_3B/pioggia/index.html  
